@@ -4,4 +4,4 @@
 
 [jq cheatsheets](/jq/CONTENT.md)
 
-[vim cheatsheets](/vim/CONTENT.md)]
+[vim cheatsheets](/vim/CONTENT.md)
