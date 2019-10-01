@@ -26,13 +26,13 @@ kill session:
 
     tmux kill-session -t myname
 
-In tmux, hit the prefix `ctrl+b` and then:
+In tmux, hit the prefix `ctrl+a` and then:
 
 ## Sessions
 
-    :new<CR>  new session
-    s  list sessions
-    $  name session
+    :new<CR>    new session
+    s           list sessions
+    $           name session
 
 ## Windows (tabs)
 
@@ -46,13 +46,14 @@ In tmux, hit the prefix `ctrl+b` and then:
 
 ## Panes (splits)
 
-    h  horizontal split
-    v  vertical split
+    h           horizontal split
+    v           vertical split
     
-    o  swap panes
-    q  show pane numbers
-    x  kill pane
-    ⍽  space - toggle between layouts
+    o           swap panes
+    q           show pane numbers
+    x           kill pane
+    M-1, M-5    Arrange panes in one of the five preset layouts: even-horizontal, even-vertical,
+                       main-horizontal, main-vertical, or tiled.
 
 ## Misc
 
