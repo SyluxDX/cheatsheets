@@ -57,7 +57,7 @@ In tmux, hit the prefix `ctrl+a` and then:
 
 ## Misc
 
-    d  detach
-    t  big clock
-    ?  list shortcuts
-    :  prompt
+    d           detach
+    t           big clock
+    ?           list shortcuts
+    :           prompt
