@@ -50,8 +50,9 @@ In tmux, hit the prefix `ctrl+a` and then:
     v           vertical split
     
     o           swap panes
-    q           show pane numbers
     x           kill pane
+    q           show pane numbers
+    :swap-pane -s <source id> -t <target id>
     M-1, M-5    Arrange panes in one of the five preset layouts: even-horizontal, even-vertical,
                        main-horizontal, main-vertical, or tiled.
 
