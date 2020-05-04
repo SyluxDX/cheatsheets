@@ -24,11 +24,11 @@ Accept setting shell default to zsh
  - git clone https://github.com/powerline/fonts.git
  - Open Font Settings, by pressing WindowsKey and write fonts.
 
-![windows fonts](/img/win-font.png)
+![alt text](/zsh/img/win-font.png)
 
  - Drag desired font to install box
 
-![settings fonts](/img/font-set.png) 
+![alt text](/zsh/img/font-set.png) 
 
 #### Set font
  - Open WSL
