@@ -17,8 +17,13 @@ Re-login to make changes, and open terminal.
 You will be prompted to set your Zsh start up files, select options (2) to create default settings
 
 #### Install Oh-my-Zsh
+**via curl**
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+**via wget**
+```
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 Open the configuration file $HOME/.zshrc to:
