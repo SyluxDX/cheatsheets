@@ -17,6 +17,7 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 Accept setting shell default to zsh
 
 #### Changing the Theme of oh-my-zsh
+- open file .zshrc, located on the home folder
 - Find and change this: `ZSH_THEME="robbyrussell"`
 - To this: `ZSH_THEME="agnoster"`
 
